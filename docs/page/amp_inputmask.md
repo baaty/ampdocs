@@ -40,7 +40,7 @@ layout: page
 
     <input mask="L0L_0L0">
 
-#### フォームが入力値を送信する方法を指定（mask-output)
+#### フォームが入力値を送信する方法を指定(mask-output)
 
     <input mask="L0L_0L0" mask-output="raw">
 

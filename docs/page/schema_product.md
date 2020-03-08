@@ -27,14 +27,14 @@ layout: page
 
 #### Offer
 
-| プロパティ名        | 説明                               |     |
-| ------------------- | ---------------------------------- | --- |
-| availability(必須)  | 制限のある商品リスト |
-| price(必須)         | 価格                               |     |
-| priceCurrency(必須) | 通過を表す文字列(日本円は「JPY」)  |     |
-| itemOffered         | 販売するアイテム                   |     |
-| priceValidUntil     | 販売できなくなる日付(ISO8601形式) |     |
-| url                 | 商品の URL                         |     |
+| プロパティ名             | 説明                         |   |
+|---------------------|----------------------------|---|
+| availability(必須)  | 制限のある商品リスト               |   |
+| price(必須)         | 価格                         |   |
+| priceCurrency(必須) | 通過を表す文字列(日本円は「JPY」) |   |
+| itemOffered         | 販売するアイテム                   |   |
+| priceValidUntil     | 販売できなくなる日付(ISO8601形式)  |   |
+| url                 | 商品の URL                    |   |
 
 #### Product
 

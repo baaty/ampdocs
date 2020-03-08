@@ -24,7 +24,7 @@ layout: page
 | frameborder       | フレームの枠                                                |
 | allowfullscreen   | フルスクリーンを許可するかどうか                                     |
 | allowtransparency | インラインフレームの背景を透過にするかどうか                             |
-| referrerpolicy    | 読み込む際にのファラーの送信方法をキーワードで指定                     |
+| referrerpolicy    | 読み込む際にリファラーの送信方法をキーワードで指定                     |
 | sandbox           | センドボックス                                                |
 | fallback          | フォールバック。対象の要素にブラウザが未対応や読み込みに失敗などをユーザに伝えるもの |
 | heights           | メディア式に基づいた要素の縦サイズ                                 |

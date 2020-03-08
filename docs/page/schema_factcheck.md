@@ -32,7 +32,7 @@ layout: page
 |-----------------|--------------------------------------|
 | appearance      | 主張が表示されるCreativeWorkのURL           |
 | author          | 主張者                                 |
-| datePublished   | 主張を行った日付または主張が一般の話題になった日付 |
+| datePublished   | 主張する日付または主張が一般の話題になった日付 |
 | firstAppearance | この主張が最初に行われたCreativeWorkのURL      |
 
 #### Rating

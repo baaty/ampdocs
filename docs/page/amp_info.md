@@ -10,8 +10,8 @@ GoogleがTwitterと共同で開発を進めているAccelerated Mobile Pagesと�
 ### 特徴
 
 - 表示の高速化のためにHTMLに制約を加えた「AMP HTML」
-- 高速にコンテンツのロードを行うためのJavaScriptコード「AMP JS」
-- コンテンツのキャッシュ配信を行う「Google AMP Cache」
+- 高速にコンテンツのロードするためのJavaScriptコード「AMP JS」
+- コンテンツのキャッシュ配信をする「Google AMP Cache」
 
 ### ルール
 

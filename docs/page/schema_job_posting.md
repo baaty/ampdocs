@@ -24,7 +24,7 @@ layout: page
 | jobLocation(必須)             | 職場                                                     |
 | title(必須)                   | 職種                                                     |
 | validThrough(必須)            | 募集の締め切り                                           |
-| applicantLocationRequirements | 従業員がリモートワークを行うために所在する必要のある地域 |
+| applicantLocationRequirements | 従業員がリモートワークするために所在する必要のある地域 |
 | baseSalary                    | 基本給                                                   |
 | employmentType                | 雇用形態                                                 |
 | identifier                    | 採用側組織の一意の識別子                                 |

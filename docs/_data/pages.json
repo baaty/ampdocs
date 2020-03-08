@@ -206,7 +206,7 @@
   },
   "amp_experiment": {
     "category_id": 6,
-    "title": "ユーザーエクスペリエンスの実験を行うために使用",
+    "title": "ユーザーエクスペリエンスの実験するために使用",
     "method": "amp-experiment"
   },
   "amp_facebook_comments": {

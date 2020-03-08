@@ -94,7 +94,7 @@ layout: page
 
 | タグ名   | 補足                                                                                                                            |
 |--------|---------------------------------------------------------------------------------------------------------------------------------|
-| script | タイプが「application/ld+json」または「text/plain」 のみ                                                                                     |
+| script | タイプが「application/ld+json」または「text/plain」のみ                                                                                      |
 | form   | amp-formと組み合わせることが必要                                                                                                        |
 | input  | タイプが「password」または「file」以外は使用可能                                                                                            |
 | style  | amp-boilerplate以外でHEADタグ内で1つのみが使用可能。style amp-customのように指定                                                             |
