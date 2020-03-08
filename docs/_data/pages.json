@@ -1,0 +1,1037 @@
+{
+  "amp_info": {
+    "category_id": 1,
+    "title": "AMPとは",
+    "method": ""
+  },
+  "template": {
+    "category_id": 1,
+    "title": "基本テンプレート",
+    "method": ""
+  },
+  "component": {
+    "category_id": 1,
+    "title": "構成要素",
+    "method": ""
+  },
+  "amp_3d_gltf": {
+    "category_id": 3,
+    "title": "glTFの3Dモデルを表示",
+    "method": "amp-3d-gltf"
+  },
+  "amp_3q_player": {
+    "category_id": 4,
+    "title": "3Qの動画プレーヤーを表示",
+    "method": "amp-3q-player"
+  },
+  "amp_access_laterpay": {
+    "category_id": 4,
+    "title": "ドイツ生まれの少額決済システムLaterPayの設定",
+    "method": "amp-access-laterpay"
+  },
+  "amp_access_poool": {
+    "category_id": 4,
+    "title": "Pooolペイウォールを表示",
+    "method": "amp-access-poool"
+  },
+  "amp_access": {
+    "category_id": 6,
+    "title": "ページに対するアクセス制御",
+    "method": "amp-access"
+  },
+  "amp_accordion": {
+    "category_id": 5,
+    "title": "クリックして開閉するアコーディオン型メニューを表示",
+    "method": "amp-accordion"
+  },
+  "amp_action_macro": {
+    "category_id": 6,
+    "title": "再利用可能なアクションを作成",
+    "method": "amp-action-macro"
+  },
+  "amp_ad_custom": {
+    "category_id": 7,
+    "title": "広告をカスタマイズして表示",
+    "method": "amp-ad-custom"
+  },
+  "amp_ad_exit": {
+    "category_id": 7,
+    "title": "広告内の他の要素に終了を指定",
+    "method": "amp-ad-exit"
+  },
+  "amp_ad": {
+    "category_id": 7,
+    "title": "広告を表示",
+    "method": "amp-ad"
+  },
+  "amp_addthis": {
+    "category_id": 4,
+    "title": "AddThisのコンテンツを表示",
+    "method": "amp-addthis"
+  },
+  "amp_analytics": {
+    "category_id": 6,
+    "title": "アクセス解析の設定",
+    "method": "amp-analytics"
+  },
+  "amp_anim": {
+    "category_id": 3,
+    "title": "アニメーションGIFなどを表示",
+    "method": "amp-anim"
+  },
+  "amp_animation": {
+    "category_id": 3,
+    "title": "アニメーションを定義して表示",
+    "method": "amp-animation"
+  },
+  "amp_apester_media": {
+    "category_id": 4,
+    "title": "Apesterのコンテンツを表示",
+    "method": "amp-apester-media"
+  },
+  "amp_app_banner": {
+    "category_id": 3,
+    "title": "アプリのインストールを促進するバナーを表示",
+    "method": "amp-app-banner"
+  },
+  "amp_audio": {
+    "category_id": 3,
+    "title": "音声プレーヤーを表示",
+    "method": "amp-audio"
+  },
+  "amp_auto_ads": {
+    "category_id": 7,
+    "title": "広告を動的に表示",
+    "method": "amp-auto-ads"
+  },
+  "amp_autocomplete": {
+    "category_id": 5,
+    "title": "オートコンプリート",
+    "method": "amp-autocomplete"
+  },
+  "amp_base_carousel": {
+    "category_id": 5,
+    "title": "カルーセルを表示",
+    "method": "amp-base-carousel"
+  },
+  "amp_beopinion": {
+    "category_id": 4,
+    "title": "BeOpのコンテンツを表示",
+    "method": "amp-beopinion"
+  },
+  "amp_bind": {
+    "category_id": 6,
+    "title": "動的なコンテンツの作成",
+    "method": "amp-bind"
+  },
+  "amp_bodymovin_animation": {
+    "category_id": 3,
+    "title": "Adobe After Effectsで生成されたJSONからアニメーションを表示",
+    "method": "amp-bodymovin-animation"
+  },
+  "amp_brid_player": {
+    "category_id": 4,
+    "title": "Brid.tvの動画プレーヤーを表示",
+    "method": "amp-brid-player"
+  },
+  "amp_brightcove": {
+    "category_id": 4,
+    "title": "Brightcoveの動画プレーヤーを表示",
+    "method": "amp-brightcove"
+  },
+  "amp_byside_content": {
+    "category_id": 4,
+    "title": "BySideの動画プレーヤーを表示",
+    "method": "amp-byside-content"
+  },
+  "amp_call_tracking": {
+    "category_id": 6,
+    "title": "リンク内の電話番号を電話用に変更",
+    "method": "amp-call-tracking"
+  },
+  "amp_carousel": {
+    "category_id": 5,
+    "title": "カルーセルを表示",
+    "method": "amp-carousel"
+  },
+  "amp_connatix_player": {
+    "category_id": 4,
+    "title": "クラウドホストの動画プレーヤーを表示",
+    "method": "amp-connatix-player"
+  },
+  "amp_consent": {
+    "category_id": 5,
+    "title": "ユーザから同意を取るためのUIを表示",
+    "method": "amp-consent"
+  },
+  "amp_dailymotion": {
+    "category_id": 4,
+    "title": "Dailymotionの動画プレーヤーを表示",
+    "method": "amp-dailymotion"
+  },
+  "amp_date_countdown": {
+    "category_id": 6,
+    "title": "指定した時間までの残り時間を表示",
+    "method": "amp-date-countdown"
+  },
+  "amp_date_display": {
+    "category_id": 6,
+    "title": "時間を表示",
+    "method": "amp-date-display"
+  },
+  "amp_date_picker": {
+    "category_id": 5,
+    "title": "カレンダーウィジェットを表示",
+    "method": "amp-date-picker"
+  },
+  "amp_delight_player": {
+    "category_id": 4,
+    "title": "Delight Playerの動画プレーヤーを表示",
+    "method": "amp-delight-player"
+  },
+  "amp_dynamic_css_classes": {
+    "category_id": 6,
+    "title": "動的なCSSクラス名をHTML要素に追加",
+    "method": "amp-dynamic-css-classes"
+  },
+  "amp_embed": {
+    "category_id": 7,
+    "title": "広告を表示",
+    "method": "amp-embed"
+  },
+  "amp_embedly_card": {
+    "category_id": 4,
+    "title": "Embedlyカードを表示",
+    "method": "amp-embedly-card"
+  },
+  "amp_experiment": {
+    "category_id": 6,
+    "title": "ユーザーエクスペリエンスの実験を行うために使用",
+    "method": "amp-experiment"
+  },
+  "amp_facebook_comments": {
+    "category_id": 4,
+    "title": "Facebookのコメントを表示",
+    "method": "amp-facebook-comments"
+  },
+  "amp_facebook_like": {
+    "category_id": 4,
+    "title": "Facebookのいいねボタンを表示",
+    "method": "amp-facebook-like"
+  },
+  "amp_facebook_page": {
+    "category_id": 4,
+    "title": "Facebookページを表示",
+    "method": "amp-facebook-page"
+  },
+  "amp_facebook": {
+    "category_id": 4,
+    "title": "Facebookの投稿や動画を表示",
+    "method": "amp-facebook"
+  },
+  "amp_fit_text": {
+    "category_id": 5,
+    "title": "テキストのフォントを自動で調整して表示",
+    "method": "amp-fit-text"
+  },
+  "amp_font": {
+    "category_id": 6,
+    "title": "Webフォント読み込み時の設定",
+    "method": "amp-font"
+  },
+  "amp_form": {
+    "category_id": 5,
+    "title": "高機能な入力フォームを表示",
+    "method": "amp-form"
+  },
+  "amp_fx_collection": {
+    "category_id": 5,
+    "title": "フェードイン・フェードアウトのような視覚効果のエフェクトを設定",
+    "method": "amp-fx-collection"
+  },
+  "amp_fx_flying_carpet": {
+    "category_id": 5,
+    "title": "フライングカーペットを表示",
+    "method": "amp-fx-flying-carpet"
+  },
+  "amp_geo": {
+    "category_id": 6,
+    "title": "地理位置情報インターフェイス",
+    "method": "amp-geo"
+  },
+  "amp_gfycat": {
+    "category_id": 4,
+    "title": "Gfycat Videoの動画プレーヤーを表示",
+    "method": "amp-gfycat"
+  },
+  "amp_gist": {
+    "category_id": 4,
+    "title": "iframeを作成しGitHubからGistを表示",
+    "method": "amp-gist"
+  },
+  "amp_google_document_embed": {
+    "category_id": 4,
+    "title": "Googleドライブでサポートされているドキュメントファイルを表示",
+    "method": "amp-google-document-embed"
+  },
+  "amp_hulu": {
+    "category_id": 4,
+    "title": "Huluの動画を表示",
+    "method": "amp-hulu"
+  },
+  "amp_iframe": {
+    "category_id": 3,
+    "title": "インラインフレームを表示",
+    "method": "amp-iframe"
+  },
+  "amp_ima_video": {
+    "category_id": 4,
+    "title": "IMA SDKに統合されているインストリーム動画広告用の動画プレーヤーを表示",
+    "method": "amp-ima-video"
+  },
+  "amp_image_lightbox": {
+    "category_id": 5,
+    "title": "画像専用のライトボックスを表示",
+    "method": "amp-image-lightbox"
+  },
+  "amp_image_slider": {
+    "category_id": 5,
+    "title": "2つの画像を比較するスライダーを表示",
+    "method": "amp-image-slider"
+  },
+  "amp_img": {
+    "category_id": 3,
+    "title": "画像を表示",
+    "method": "amp-img"
+  },
+  "amp_imgur": {
+    "category_id": 4,
+    "title": "Imgurの投稿を表示",
+    "method": "amp-imgur"
+  },
+  "amp_inline_gallery": {
+    "category_id": 5,
+    "title": "ページネーションドットやサムネイルを付与したカルーセルを表示",
+    "method": "amp-inline-gallery"
+  },
+  "amp_inputmask": {
+    "category_id": 6,
+    "title": "入力マスキング機能",
+    "method": "amp-inputmask"
+  },
+  "amp_instagram": {
+    "category_id": 4,
+    "title": "Instagramの投稿を表示",
+    "method": "amp-instagram"
+  },
+  "amp_install_serviceworker": {
+    "category_id": 4,
+    "title": "ServiceWorkerを埋め込む",
+    "method": "amp-install-serviceworker"
+  },
+  "amp_izlesene": {
+    "category_id": 4,
+    "title": "Izleseneの動画を表示",
+    "method": "amp-izlesene"
+  },
+  "amp_jwplayer": {
+    "category_id": 4,
+    "title": "JW Playerの動画プレーヤーを表示",
+    "method": "amp-jwplayer"
+  },
+  "amp_kaltura_player": {
+    "category_id": 4,
+    "title": "Kalturaの動画プレーヤーを表示",
+    "method": "amp-kaltura-player"
+  },
+  "amp_layout": {
+    "category_id": 5,
+    "title": "レスポンシブレイアウト",
+    "method": "amp-layout"
+  },
+  "amp_lightbox_gallery": {
+    "category_id": 5,
+    "title": "閉じるまで表示されるライトボックスを表示",
+    "method": "amp-lightbox-gallery"
+  },
+  "amp_lightbox": {
+    "category_id": 5,
+    "title": "ライトボックスを表示",
+    "method": "amp-lightbox"
+  },
+  "amp_link_rewriter": {
+    "category_id": 6,
+    "title": "パターンに基づいてURLを書き換える",
+    "method": "amp-link-rewriter"
+  },
+  "amp_list": {
+    "category_id": 3,
+    "title": "データを動的に読み込み、指定したテンプレートを使って表示",
+    "method": "amp_list"
+  },
+  "amp_live_list": {
+    "category_id": 3,
+    "title": "データを動的に読み込み、指定したテンプレートを使って動的に表示",
+    "method": "amp-live-list"
+  },
+  "amp_mathml": {
+    "category_id": 3,
+    "title": "iframeを作成し、MathML式を表示",
+    "method": "amp-mathml"
+  },
+  "amp_mega_menu": {
+    "category_id": 5,
+    "title": "クリック時にコンテンツを開閉するメニューを表示",
+    "method": "amp-mega-menu"
+  },
+  "amp_megaphone": {
+    "category_id": 4,
+    "title": "Megaphone.fmポッドキャストエピソードまたはプレイリストを表示",
+    "method": "amp-megaphone"
+  },
+  "amp_minute_media_player": {
+    "category_id": 4,
+    "title": "ミニッツメディアプレーヤーを表示",
+    "method": "amp-minute-media-player"
+  },
+  "amp_mowplayer": {
+    "category_id": 4,
+    "title": "Mow Playerを表示",
+    "method": "amp-mowplayer"
+  },
+  "amp_mustache": {
+    "category_id": 5,
+    "title": "Mustache形式のテンプレートを表示",
+    "method": "amp-mustache"
+  },
+  "amp_nested_menu": {
+    "category_id": 5,
+    "title": "タップするとネストされたサブメニューを開くメニューを表示",
+    "method": "amp-nested-menu"
+  },
+  "amp_next_page": {
+    "category_id": 6,
+    "title": "ページを先行でロード",
+    "method": "amp-next-page"
+  },
+  "amp_nexxtv_player": {
+    "category_id": 4,
+    "title": "nexxOMNIAプラットフォームからのメディアストリームを表示",
+    "method": "amp-nexxtv-player"
+  },
+  "amp_o2_player": {
+    "category_id": 4,
+    "title": "AOL O2の動画プレーヤーを表示",
+    "method": "amp-o2-player"
+  },
+  "amp_ooyala_player": {
+    "category_id": 4,
+    "title": "Ooyalaの動画プレーヤーを表示",
+    "method": "amp-ooyala-player"
+  },
+  "amp_orientation_observer": {
+    "category_id": 5,
+    "title": "傾きと連動したアニメーション",
+    "method": "amp-orientation-observer"
+  },
+  "amp_pan_zoom": {
+    "category_id": 5,
+    "title": "インタラクティブコンテンツの表示",
+    "method": "amp-pan-zoom"
+  },
+  "amp_pinterest": {
+    "category_id": 4,
+    "title": "Pinterestのコンテンツを表示",
+    "method": "amp-pinterest"
+  },
+  "amp_pixel": {
+    "category_id": 6,
+    "title": "ページビューをカウントするための追跡ピクセルを設定",
+    "method": "amp-pixel"
+  },
+  "amp_playbuzz": {
+    "category_id": 4,
+    "title": "Playbuzzの動画プレーヤーを表示",
+    "method": "amp-playbuzz"
+  },
+  "amp_position_observer": {
+    "category_id": 5,
+    "title": "任意の位置でボタンの表示と非表示を切り替えるアニメーションを表示",
+    "method": "amp-position-observer"
+  },
+  "amp_powr_player": {
+    "category_id": 4,
+    "title": "Powrのプレーヤーを表示",
+    "method": "amp-powr-player"
+  },
+  "amp_reach_player": {
+    "category_id": 4,
+    "title": "Beachfront Reachの動画プレーヤーを表示",
+    "method": "amp-reach-player"
+  },
+  "amp_recaptcha_input": {
+    "category_id": 6,
+    "title": "reCAPTCHA v3トークンをフォーム送信する設定を追加",
+    "method": "amp-recaptcha-input"
+  },
+  "amp_redbull_player": {
+    "category_id": 4,
+    "title": "Red Bullの動画プレーヤーを表示",
+    "method": "amp-redbull-player"
+  },
+  "amp_reddit": {
+    "category_id": 4,
+    "title": "Redditの投稿やコメントを表示",
+    "method": "amp-reddit"
+  },
+  "amp_riddle_quiz": {
+    "category_id": 4,
+    "title": "Riddleコンテンツを表示",
+    "method": "amp-riddle-quiz"
+  },
+  "amp_script": {
+    "category_id": 6,
+    "title": "独自のJavaScriptを実行",
+    "method": "amp-script"
+  },
+  "amp_selector": {
+    "category_id": 5,
+    "title": "フォームの選択肢を表示",
+    "method": "amp-selector"
+  },
+  "amp_sidebar": {
+    "category_id": 5,
+    "title": "サイドバーを表示",
+    "method": "amp-sidebar"
+  },
+  "amp_skimlinks": {
+    "category_id": 6,
+    "title": "スキムリンクを実行",
+    "method": "amp-skimlinks"
+  },
+  "amp_smartlinks": {
+    "category_id": 4,
+    "title": "Narrativの機能を表示",
+    "method": "amp-smartlinks"
+  },
+  "amp_social_share": {
+    "category_id": 4,
+    "title": "ソーシャルシェアボタンを表示",
+    "method": "amp-social-share"
+  },
+  "amp_soundcloud": {
+    "category_id": 4,
+    "title": "Soundcloudの音声プレーヤーを表示",
+    "method": "amp-soundcloud"
+  },
+  "amp_springboard_player": {
+    "category_id": 4,
+    "title": "Springboardの動画プレーヤーを表示",
+    "method": "amp-springboard-player"
+  },
+  "amp_sticky_ad": {
+    "category_id": 7,
+    "title": "画面下部に常時表示される広告を表示",
+    "method": "amp-sticky-ad"
+  },
+  "amp_story_analytics": {
+    "category_id": 3,
+    "title": "ストーリー分析",
+    "method": "amp-story-analytics"
+  },
+  "amp_story_auto_ads": {
+    "category_id": 7,
+    "title": "ストーリーに広告を動的に表示",
+    "method": "amp-story-auto-ads"
+  },
+  "amp_story": {
+    "category_id": 3,
+    "title": "ストーリーページを表示",
+    "method": "amp-story"
+  },
+  "amp_subscriptions_google": {
+    "category_id": 6,
+    "title": "Subscribe with Googleのサブスクリプションスタイルのアクセスプロトコルを実装",
+    "method": "amp-subscriptions"
+  },
+  "amp_subscriptions": {
+    "category_id": 6,
+    "title": "ペイウォールコンテンツを設定",
+    "method": "amp-subscriptions"
+  },
+  "amp_timeago": {
+    "category_id": 6,
+    "title": "日付をTwitterなどで使われる「3時間前」などのフォーマットに変換",
+    "method": "amp-timeago"
+  },
+  "amp_truncate_text": {
+    "category_id": 5,
+    "title": "長いテキストを省略記号で切り捨てて表示",
+    "method": "amp-truncate-text"
+  },
+  "amp_twitter": {
+    "category_id": 4,
+    "title": "Twitterのツイートを表示",
+    "method": "amp-twitter"
+  },
+  "amp_user_notification": {
+    "category_id": 5,
+    "title": "ユーザーに通知を表示",
+    "method": "amp-user-notification"
+  },
+  "amp_video_docking": {
+    "category_id": 5,
+    "title": "動画を最小化する機能を追加",
+    "method": "amp-video-docking"
+  },
+  "amp_video_iframe": {
+    "category_id": 3,
+    "title": "iFrameに動画プレーヤーを表示",
+    "method": "amp-video-iframe"
+  },
+  "amp_video": {
+    "category_id": 3,
+    "title": "動画プレーヤーを表示",
+    "method": "amp-video"
+  },
+  "amp_vimeo": {
+    "category_id": 4,
+    "title": "Vimeoの動画プレーヤーを表示",
+    "method": "amp-vimeo"
+  },
+  "amp_vine": {
+    "category_id": 4,
+    "title": "Vineの動画プレーヤーを表示",
+    "method": "amp-vine"
+  },
+  "amp_viqeo_player": {
+    "category_id": 4,
+    "title": "Viqeoの動画プレーヤーを表示",
+    "method": "amp-viqeo-player"
+  },
+  "amp_vk": {
+    "category_id": 4,
+    "title": "VKの投稿を表示",
+    "method": "amp-vk"
+  },
+  "amp_web_push": {
+    "category_id": 6,
+    "title": "プッシュ通知の購読設定",
+    "method": "amp-web-push"
+  },
+  "amp_wistia_player": {
+    "category_id": 4,
+    "title": "Wistiaの動画を表示",
+    "method": "amp-wistia-player"
+  },
+  "amp_yotpo": {
+    "category_id": 4,
+    "title": "Yotpoのオンサイトウィジェットを表示",
+    "method": "amp-yotpo"
+  },
+  "amp_youtube": {
+    "category_id": 4,
+    "title": "YouTubeの動画プレーヤーを表示",
+    "method": "amp-youtube"
+  },
+  "css": {
+    "category_id": 11,
+    "title": "スタイルシートについて",
+    "method": ""
+  },
+  "layout": {
+    "category_id": 11,
+    "title": "レイアウトについて",
+    "method": ""
+  },
+  "schema": {
+    "category_id": 2,
+    "title": "構造化マークアップとは",
+    "method": ""
+  },
+  "schema_article": {
+    "category_id": 2,
+    "title": "記事の構造化データ",
+    "method": "Article"
+  },
+  "schema_book": {
+    "category_id": 2,
+    "title": "書籍の構造化データ",
+    "method": "Book"
+  },
+  "schema_breadcrumb": {
+    "category_id": 2,
+    "title": "パンくずの構造化データ",
+    "method": "BreadcrumbList"
+  },
+  "schema_carousel": {
+    "category_id": 2,
+    "title": "カルーセルの構造化データ",
+    "method": "ItemList"
+  },
+  "schema_course": {
+    "category_id": 2,
+    "title": "コースの構造化データ",
+    "method": "Course"
+  },
+  "schema_critic_review": {
+    "category_id": 2,
+    "title": "評論家レビューの構造化データ",
+    "method": ""
+  },
+  "schema_dataset": {
+    "category_id": 2,
+    "title": "データセットの構造化データ",
+    "method": "Review"
+  },
+  "schema_employer_rating": {
+    "category_id": 2,
+    "title": "採用企業の評価の構造化データ",
+    "method": "EmployerAggregateRating"
+  },
+  "schema_event": {
+    "category_id": 2,
+    "title": "イベントの構造化データ",
+    "method": "Event"
+  },
+  "schema_factcheck": {
+    "category_id": 2,
+    "title": "ファクトチェックの構造化テータ",
+    "method": "ClaimReview"
+  },
+  "schema_faqpage": {
+    "category_id": 2,
+    "title": "よくある質問の構造化データ",
+    "method": "FAQPage"
+  },
+  "schema_how_to": {
+    "category_id": 2,
+    "title": "ハウツーの構造化データ",
+    "method": ""
+  },
+  "schema_job_posting": {
+    "category_id": 2,
+    "title": "求人情報の構造化データ",
+    "method": ""
+  },
+  "schema_local_business": {
+    "category_id": 2,
+    "title": "ローカルビジネスの構造化データ",
+    "method": "JobPosting"
+  },
+  "schema_logo": {
+    "category_id": 2,
+    "title": "ロゴの構造化テータ",
+    "method": "Organization"
+  },
+  "schema_movie": {
+    "category_id": 2,
+    "title": "映画の構造化データ",
+    "method": ""
+  },
+  "schema_product": {
+    "category_id": 2,
+    "title": "商品の構造化データ",
+    "method": "ItemList"
+  },
+  "schema_qapage": {
+    "category_id": 2,
+    "title": "Q&Aの構造化データ",
+    "method": ""
+  },
+  "schema_recipe": {
+    "category_id": 2,
+    "title": "レシピの構造化データ",
+    "method": "QAPage"
+  },
+  "schema_sitelinks_searchbox": {
+    "category_id": 2,
+    "title": "サイトリンク検索ボックスの構造化データ",
+    "method": "WebSite"
+  },
+  "schema_software_app": {
+    "category_id": 2,
+    "title": "ソフトウェアアプリの構造化データ",
+    "method": "SoftwareApplication"
+  },
+  "schema_video": {
+    "category_id": 2,
+    "title": "動画コンテンツの構造化データ",
+    "method": "VideoObject"
+  },
+  "use_html": {
+    "category_id": 8,
+    "title": "使えるHTMLタグ",
+    "method": ""
+  },
+  "head_link": {
+    "category_id": 10,
+    "title": "linkタグ",
+    "method": ""
+  },
+  "use_font": {
+    "category_id": 10,
+    "title": "使えるWebフォント",
+    "method": ""
+  },
+  "twitter_card": {
+    "category_id": 10,
+    "title": "Twitterカード",
+    "method": ""
+  },
+  "test_schema": {
+    "category_id": 13,
+    "title": "構造化データの確認方法",
+    "method": ""
+  },
+  "actions_and_events": {
+    "category_id": 12,
+    "title": "アクションとイベント",
+    "method": ""
+  },
+  "common_attributes": {
+    "category_id": 8,
+    "title": "共通の属性",
+    "method": ""
+  },
+  "use_svg": {
+    "category_id": 8,
+    "title": "使えるSVG",
+    "method": ""
+  },
+  "ad_info": {
+    "category_id": 7,
+    "title": "広告について",
+    "method": ""
+  },
+  "error_mandatory_tag_missing": {
+    "category_id": 15,
+    "title": "必須タグがない",
+    "method": "MANDATORY_TAG_MISSING"
+  },
+  "error_tag_required_by_missing": {
+    "category_id": 15,
+    "title": "あるタグで必要な別のタグがない",
+    "method": "TAG_REQUIRED_BY_MISSING"
+  },
+  "error_disallowed_tag": {
+    "category_id": 15,
+    "title": "タグが許可されていない",
+    "method": "DISALLOWED_TAG"
+  },
+  "error_disallowed_script_tag": {
+    "category_id": 15,
+    "title": "カスタムJavaScriptが使用されている",
+    "method": "DISALLOWED_SCRIPT_TAG"
+  },
+  "error_mandatory_attr_missing": {
+    "category_id": 15,
+    "title": "必須属性がない",
+    "method": "MANDATORY_ATTR_MISSING"
+  },
+  "error_invalid_attr_value": {
+    "category_id": 15,
+    "title": "属性値が無効",
+    "method": "INVALID_ATTR_VALUE"
+  },
+  "error_disallowed_attr": {
+    "category_id": 15,
+    "title": "属性が許可されていない",
+    "method": "DISALLOWED_ATTR"
+  },
+  "error_mandatory_cdata_missing_or_incorrect": {
+    "category_id": 15,
+    "title": "必須のテキストがない、または正しくない",
+    "method": "MANDATORY_CDATA_MISSING_OR_INCORRECT"
+  },
+  "error_cdata_violates_blacklist": {
+    "category_id": 15,
+    "title": "タグ内のテキストが許可されていない",
+    "method": "CDATA_VIOLATES_BLACKLIST"
+  },
+  "error_disallowed_property_in_attr_value": {
+    "category_id": 15,
+    "title": "タグの属性内のプロパティが許可されていない",
+    "method": "DISALLOWED_PROPERTY_IN_ATTR_VALUE"
+  },
+  "error_invalid_property_value_in_attr_value": {
+    "category_id": 15,
+    "title": "プロパティ値が無効",
+    "method": "INVALID_PROPERTY_VALUE_IN_ATTR_VALUE"
+  },
+  "error_missing_url": {
+    "category_id": 15,
+    "title": "URLが指定されていない",
+    "method": "MISSING_URL"
+  },
+  "error_invalid_url_protocol": {
+    "category_id": 15,
+    "title": "URLが無効",
+    "method": "INVALID_URL_PROTOCOL"
+  },
+  "error_invalid_url_protocol2": {
+    "category_id": 15,
+    "title": "URLプロトコルが無効",
+    "method": "INVALID_URL_PROTOCOL"
+  },
+  "error_mandatory_property_missing_from_attr_value": {
+    "category_id": 15,
+    "title": "属性値に必須のプロパティがない",
+    "method": "MANDATORY_PROPERTY_MISSING_FROM_ATTR_VALUE"
+  },
+  "error_mutually_exclusive_attrs": {
+    "category_id": 15,
+    "title": "同時に指定できない属性が含まれている",
+    "method": "MUTUALLY_EXCLUSIVE_ATTRS"
+  },
+  "error_mandatory_oneof_attr_missing": {
+    "category_id": 15,
+    "title": "リスト内の必須属性がない",
+    "method": "MANDATORY_ONEOF_ATTR_MISSING"
+  },
+  "error_wrong_parent_tag": {
+    "category_id": 15,
+    "title": "親タグが間違っている",
+    "method": "WRONG_PARENT_TAG"
+  },
+  "error_disallowed_tag_ancestor": {
+    "category_id": 15,
+    "title": "祖先にできないタグ",
+    "method": "DISALLOWED_TAG_ANCESTOR"
+  },
+  "error_mandatory_tag_ancestor": {
+    "category_id": 15,
+    "title": "必須の祖先タグ",
+    "method": "MANDATORY_TAG_ANCESTOR"
+  },
+  "error_mandatory_tag_ancestor_with_hint": {
+    "category_id": 15,
+    "title": "必須の祖先タグとヒント",
+    "method": "MANDATORY_TAG_ANCESTOR_WITH_HINT"
+  },
+  "error_duplicate_unique_tag": {
+    "category_id": 15,
+    "title": "一意のタグが重複している",
+    "method": "DUPLICATE_UNIQUE_TAG"
+  },
+  "error_stylesheet_too_long": {
+    "category_id": 15,
+    "title": "スタイルシートが長すぎる",
+    "method": "STYLESHEET_TOO_LONG"
+  },
+  "error_css_syntax": {
+    "category_id": 15,
+    "title": "CSS構文エラー",
+    "method": "CSS_SYNTAX"
+  },
+  "error_css_syntax_invalid_at_rule": {
+    "category_id": 15,
+    "title": "",
+    "method": "CSS_SYNTAX_INVALID_AT_RULE"
+  },
+  "error_implied_layout_invalid": {
+    "category_id": 15,
+    "title": "暗黙的レイアウトがAMPタグでサポートされていない",
+    "method": "IMPLIED_LAYOUT_INVALID"
+  },
+  "error_attr_disallowed_by_implied_layout": {
+    "category_id": 15,
+    "title": "暗黙的レイアウトで属性が許可されていない",
+    "method": "ATTR_DISALLOWED_BY_IMPLIED_LAYOUT"
+  },
+  "error_attr_disallowed_by_specified_layout": {
+    "category_id": 15,
+    "title": "",
+    "method": "ATTR_DISALLOWED_BY_SPECIFIED_LAYOUT"
+  },
+  "error_attr_value_required_by_layout": {
+    "category_id": 15,
+    "title": "レイアウトで必要な属性の値が無効",
+    "method": "ATTR_VALUE_REQUIRED_BY_LAYOUT"
+  },
+  "error_inconsistent_units_for_width_and_height": {
+    "category_id": 15,
+    "title": "幅と高さの単位が一致していない",
+    "method": "INCONSISTENT_UNITS_FOR_WIDTH_AND_HEIGHT"
+  },
+  "error_template_in_attr_name": {
+    "category_id": 15,
+    "title": "テンプレートの構文が属性に含まれている",
+    "method": "TEMPLATE_IN_ATTR_NAME"
+  },
+  "error_unescaped_template_in_attr_value": {
+    "category_id": 15,
+    "title": "エスケープされていないテンプレートの構文が属性に含まれている",
+    "method": "UNESCAPED_TEMPLATE_IN_ATTR_VALUE"
+  },
+  "error_template_partial_in_attr_value": {
+    "category_id": 15,
+    "title": "テンプレートのパーシャルが属性に含まれている",
+    "method": "TEMPLATE_PARTIAL_IN_ATTR_VALUE"
+  },
+  "error_deprecated_tag": {
+    "category_id": 15,
+    "title": "サポートが終了したタグ",
+    "method": "DEPRECATED_TAG"
+  },
+  "error_deprecated_attr": {
+    "category_id": 15,
+    "title": "サポートが終了した属性",
+    "method": "DEPRECATED_ATTR"
+  },
+  "facebook_open_graph": {
+    "category_id": 10,
+    "title": "Facebook Open Graph",
+    "method": ""
+  },
+  "javascript_custom": {
+    "category_id": 12,
+    "title": "カスタムJavaScript",
+    "method": ""
+  },
+  "amp_param": {
+    "category_id": 8,
+    "title": "URL変数",
+    "method": ""
+  },
+  "test_web": {
+    "category_id": 13,
+    "title": "AMPの確認方法",
+    "method": ""
+  },
+  "tool_amp_test": {
+    "category_id": 14,
+    "title": "AMP テスト - Google Search Console",
+    "method": ""
+  },
+  "tool_schema": {
+    "category_id": 14,
+    "title": "構造化データ テストツール",
+    "method": ""
+  },
+  "tool_twitter": {
+    "category_id": 14,
+    "title": "Card Validator | Twitter Developers",
+    "method": ""
+  },
+  "tool_validator": {
+    "category_id": 14,
+    "title": "The AMP Validator",
+    "method": ""
+  },
+  "tool_google_url": {
+    "category_id": 14,
+    "title": "URL検査ツール",
+    "method": ""
+  },
+  "tool_google_crawl": {
+    "category_id": 14,
+    "title": "URLの再クロールをGoogleにリクエスト",
+    "method": ""
+  },
+  "use_var": {
+    "category_id": 8,
+    "title": "使える変数",
+    "method": ""
+  }
+}

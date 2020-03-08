@@ -1,0 +1,622 @@
+{"items" : [
+{
+  "url": "page/amp_3d_gltf",
+  "method": "amp-3d-gltf",
+  "title": "glTFの3Dモデルを表示"
+},
+{
+  "url": "page/amp_3q_player",
+  "method": "amp-3q-player",
+  "title": "3Qの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_access_laterpay",
+  "method": "amp-access-laterpay",
+  "title": "ドイツ生まれの少額決済システムLaterPayの設定"
+},
+{
+  "url": "page/amp_access_poool",
+  "method": "amp-access-poool",
+  "title": "Pooolペイウォールを表示"
+},
+{
+  "url": "page/amp_access",
+  "method": "amp-access",
+  "title": "ページに対するアクセス制御"
+},
+{
+  "url": "page/amp_accordion",
+  "method": "amp-accordion",
+  "title": "クリックして開閉するアコーディオン型メニューを表示"
+},
+{
+  "url": "page/amp_action_macro",
+  "method": "amp-action-macro",
+  "title": "再利用可能なアクションを作成"
+},
+{
+  "url": "page/amp_ad_custom",
+  "method": "amp-ad-custom",
+  "title": "広告をカスタマイズして表示"
+},
+{
+  "url": "page/amp_ad_exit",
+  "method": "amp-ad-exit",
+  "title": "広告内の他の要素に終了を指定"
+},
+{
+  "url": "page/amp_ad",
+  "method": "amp-ad",
+  "title": "広告を表示"
+},
+{
+  "url": "page/amp_addthis",
+  "method": "amp-addthis",
+  "title": "AddThisのコンテンツを表示"
+},
+{
+  "url": "page/amp_analytics",
+  "method": "amp-analytics",
+  "title": "アクセス解析の設定"
+},
+{
+  "url": "page/amp_anim",
+  "method": "amp-anim",
+  "title": "アニメーションGIFなどを表示"
+},
+{
+  "url": "page/amp_animation",
+  "method": "amp-animation",
+  "title": "アニメーションを定義して表示"
+},
+{
+  "url": "page/amp_apester_media",
+  "method": "amp-apester-media",
+  "title": "Apesterのコンテンツを表示"
+},
+{
+  "url": "page/amp_app_banner",
+  "method": "amp-app-banner",
+  "title": "アプリのインストールを促進するバナーを表示"
+},
+{
+  "url": "page/amp_audio",
+  "method": "amp-audio",
+  "title": "音声プレーヤーを表示"
+},
+{
+  "url": "page/amp_auto_ads",
+  "method": "amp-auto-ads",
+  "title": "広告を動的に表示"
+},
+{
+  "url": "page/amp_autocomplete",
+  "method": "amp-autocomplete",
+  "title": "オートコンプリート"
+},
+{
+  "url": "page/amp_base_carousel",
+  "method": "amp-base-carousel",
+  "title": "カルーセルを表示"
+},
+{
+  "url": "page/amp_beopinion",
+  "method": "amp-beopinion",
+  "title": "BeOpのコンテンツを表示"
+},
+{
+  "url": "page/amp_bind",
+  "method": "amp-bind",
+  "title": "動的なコンテンツの作成"
+},
+{
+  "url": "page/amp_bodymovin_animation",
+  "method": "amp-bodymovin-animation",
+  "title": "Adobe After Effectsで生成されたJSONからアニメーションを表示"
+},
+{
+  "url": "page/amp_brid_player",
+  "method": "amp-brid-player",
+  "title": "Brid.tvの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_brightcove",
+  "method": "amp-brightcove",
+  "title": "Brightcoveの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_byside_content",
+  "method": "amp-byside-content",
+  "title": "BySideの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_call_tracking",
+  "method": "amp-call-tracking",
+  "title": "リンク内の電話番号を電話用に変更"
+},
+{
+  "url": "page/amp_carousel",
+  "method": "amp-carousel",
+  "title": "カルーセルを表示"
+},
+{
+  "url": "page/amp_connatix_player",
+  "method": "amp-connatix-player",
+  "title": "クラウドホストの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_consent",
+  "method": "amp-consent",
+  "title": "ユーザから同意を取るためのUIを表示"
+},
+{
+  "url": "page/amp_dailymotion",
+  "method": "amp-dailymotion",
+  "title": "Dailymotionの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_date_countdown",
+  "method": "amp-date-countdown",
+  "title": "指定した時間までの残り時間を表示"
+},
+{
+  "url": "page/amp_date_display",
+  "method": "amp-date-display",
+  "title": "時間を表示"
+},
+{
+  "url": "page/amp_date_picker",
+  "method": "amp-date-picker",
+  "title": "カレンダーウィジェットを表示"
+},
+{
+  "url": "page/amp_delight_player",
+  "method": "amp-delight-player",
+  "title": "Delight Playerの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_dynamic_css_classes",
+  "method": "amp-dynamic-css-classes",
+  "title": "動的なCSSクラス名をHTML要素に追加"
+},
+{
+  "url": "page/amp_embed",
+  "method": "amp-embed",
+  "title": "広告を表示"
+},
+{
+  "url": "page/amp_embedly_card",
+  "method": "amp-embedly-card",
+  "title": "Embedlyカードを表示"
+},
+{
+  "url": "page/amp_experiment",
+  "method": "amp-experiment",
+  "title": "ユーザーエクスペリエンスの実験を行うために使用"
+},
+{
+  "url": "page/amp_facebook_comments",
+  "method": "amp-facebook-comments",
+  "title": "Facebookのコメントを表示"
+},
+{
+  "url": "page/amp_facebook_like",
+  "method": "amp-facebook-like",
+  "title": "Facebookのいいねボタンを表示"
+},
+{
+  "url": "page/amp_facebook_page",
+  "method": "amp-facebook-page",
+  "title": "Facebookページを表示"
+},
+{
+  "url": "page/amp_facebook",
+  "method": "amp-facebook",
+  "title": "Facebookの投稿や動画を表示"
+},
+{
+  "url": "page/amp_fit_text",
+  "method": "amp-fit-text",
+  "title": "テキストのフォントを自動で調整して表示"
+},
+{
+  "url": "page/amp_font",
+  "method": "amp-font",
+  "title": "Webフォント読み込み時の設定"
+},
+{
+  "url": "page/amp_form",
+  "method": "amp-form",
+  "title": "高機能な入力フォームを表示"
+},
+{
+  "url": "page/amp_fx_collection",
+  "method": "amp-fx-collection",
+  "title": "フェードイン・フェードアウトのような視覚効果のエフェクトを設定"
+},
+{
+  "url": "page/amp_fx_flying_carpet",
+  "method": "amp-fx-flying-carpet",
+  "title": "フライングカーペットを表示"
+},
+{
+  "url": "page/amp_geo",
+  "method": "amp-geo",
+  "title": "地理位置情報インターフェイス"
+},
+{
+  "url": "page/amp_gfycat",
+  "method": "amp-gfycat",
+  "title": "Gfycat Videoの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_gist",
+  "method": "amp-gist",
+  "title": "iframeを作成しGitHubからGistを表示"
+},
+{
+  "url": "page/amp_google_document_embed",
+  "method": "amp-google-document-embed",
+  "title": "Googleドライブでサポートされているドキュメントファイルを表示"
+},
+{
+  "url": "page/amp_hulu",
+  "method": "amp-hulu",
+  "title": "Huluの動画を表示"
+},
+{
+  "url": "page/amp_iframe",
+  "method": "amp-iframe",
+  "title": "インラインフレームを表示"
+},
+{
+  "url": "page/amp_ima_video",
+  "method": "amp-ima-video",
+  "title": "IMA SDKに統合されているインストリーム動画広告用の動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_image_lightbox",
+  "method": "amp-image-lightbox",
+  "title": "画像専用のライトボックスを表示"
+},
+{
+  "url": "page/amp_image_slider",
+  "method": "amp-image-slider",
+  "title": "2つの画像を比較するスライダーを表示"
+},
+{
+  "url": "page/amp_img",
+  "method": "amp-img",
+  "title": "画像を表示"
+},
+{
+  "url": "page/amp_imgur",
+  "method": "amp-imgur",
+  "title": "Imgurの投稿を表示"
+},
+{
+  "url": "page/amp_inline_gallery",
+  "method": "amp-inline-gallery",
+  "title": "ページネーションドットやサムネイルを付与したカルーセルを表示"
+},
+{
+  "url": "page/amp_inputmask",
+  "method": "amp-inputmask",
+  "title": "入力マスキング機能"
+},
+{
+  "url": "page/amp_instagram",
+  "method": "amp-instagram",
+  "title": "Instagramの投稿を表示"
+},
+{
+  "url": "page/amp_install_serviceworker",
+  "method": "amp-install-serviceworker",
+  "title": "ServiceWorkerを埋め込む"
+},
+{
+  "url": "page/amp_izlesene",
+  "method": "amp-izlesene",
+  "title": "Izleseneの動画を表示"
+},
+{
+  "url": "page/amp_jwplayer",
+  "method": "amp-jwplayer",
+  "title": "JW Playerの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_kaltura_player",
+  "method": "amp-kaltura-player",
+  "title": "Kalturaの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_layout",
+  "method": "amp-layout",
+  "title": "レスポンシブレイアウト"
+},
+{
+  "url": "page/amp_lightbox_gallery",
+  "method": "amp-lightbox-gallery",
+  "title": "閉じるまで表示されるライトボックスを表示"
+},
+{
+  "url": "page/amp_lightbox",
+  "method": "amp-lightbox",
+  "title": "ライトボックスを表示"
+},
+{
+  "url": "page/amp_link_rewriter",
+  "method": "amp-link-rewriter",
+  "title": "パターンに基づいてURLを書き換える"
+},
+{
+  "url": "page/amp_list",
+  "method": "amp_list",
+  "title": "データを動的に読み込み、指定したテンプレートを使って表示"
+},
+{
+  "url": "page/amp_live_list",
+  "method": "amp-live-list",
+  "title": "データを動的に読み込み、指定したテンプレートを使って動的に表示"
+},
+{
+  "url": "page/amp_mathml",
+  "method": "amp-mathml",
+  "title": "iframeを作成し、MathML式を表示"
+},
+{
+  "url": "page/amp_mega_menu",
+  "method": "amp-mega-menu",
+  "title": "クリック時にコンテンツを開閉するメニューを表示"
+},
+{
+  "url": "page/amp_megaphone",
+  "method": "amp-megaphone",
+  "title": "Megaphone.fmポッドキャストエピソードまたはプレイリストを表示"
+},
+{
+  "url": "page/amp_minute_media_player",
+  "method": "amp-minute-media-player",
+  "title": "ミニッツメディアプレーヤーを表示"
+},
+{
+  "url": "page/amp_mowplayer",
+  "method": "amp-mowplayer",
+  "title": "Mow Playerを表示"
+},
+{
+  "url": "page/amp_mustache",
+  "method": "amp-mustache",
+  "title": "Mustache形式のテンプレートを表示"
+},
+{
+  "url": "page/amp_nested_menu",
+  "method": "amp-nested-menu",
+  "title": "タップするとネストされたサブメニューを開くメニューを表示"
+},
+{
+  "url": "page/amp_next_page",
+  "method": "amp-next-page",
+  "title": "ページを先行でロード"
+},
+{
+  "url": "page/amp_nexxtv_player",
+  "method": "amp-nexxtv-player",
+  "title": "nexxOMNIAプラットフォームからのメディアストリームを表示"
+},
+{
+  "url": "page/amp_o2_player",
+  "method": "amp-o2-player",
+  "title": "AOL O2の動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_ooyala_player",
+  "method": "amp-ooyala-player",
+  "title": "Ooyalaの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_orientation_observer",
+  "method": "amp-orientation-observer",
+  "title": "傾きと連動したアニメーション"
+},
+{
+  "url": "page/amp_pan_zoom",
+  "method": "amp-pan-zoom",
+  "title": "インタラクティブコンテンツの表示"
+},
+{
+  "url": "page/amp_pinterest",
+  "method": "amp-pinterest",
+  "title": "Pinterestのコンテンツを表示"
+},
+{
+  "url": "page/amp_pixel",
+  "method": "amp-pixel",
+  "title": "ページビューをカウントするための追跡ピクセルを設定"
+},
+{
+  "url": "page/amp_playbuzz",
+  "method": "amp-playbuzz",
+  "title": "Playbuzzの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_position_observer",
+  "method": "amp-position-observer",
+  "title": "任意の位置でボタンの表示と非表示を切り替えるアニメーションを表示"
+},
+{
+  "url": "page/amp_powr_player",
+  "method": "amp-powr-player",
+  "title": "Powrのプレーヤーを表示"
+},
+{
+  "url": "page/amp_reach_player",
+  "method": "amp-reach-player",
+  "title": "Beachfront Reachの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_recaptcha_input",
+  "method": "amp-recaptcha-input",
+  "title": "reCAPTCHA v3トークンをフォーム送信する設定を追加"
+},
+{
+  "url": "page/amp_redbull_player",
+  "method": "amp-redbull-player",
+  "title": "Red Bullの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_reddit",
+  "method": "amp-reddit",
+  "title": "Redditの投稿やコメントを表示"
+},
+{
+  "url": "page/amp_riddle_quiz",
+  "method": "amp-riddle-quiz",
+  "title": "Riddleコンテンツを表示"
+},
+{
+  "url": "page/amp_script",
+  "method": "amp-script",
+  "title": "独自のJavaScriptを実行"
+},
+{
+  "url": "page/amp_selector",
+  "method": "amp-selector",
+  "title": "フォームの選択肢を表示"
+},
+{
+  "url": "page/amp_sidebar",
+  "method": "amp-sidebar",
+  "title": "サイドバーを表示"
+},
+{
+  "url": "page/amp_skimlinks",
+  "method": "amp-skimlinks",
+  "title": "スキムリンクを実行"
+},
+{
+  "url": "page/amp_smartlinks",
+  "method": "amp-smartlinks",
+  "title": "Narrativの機能を表示"
+},
+{
+  "url": "page/amp_social_share",
+  "method": "amp-social-share",
+  "title": "ソーシャルシェアボタンを表示"
+},
+{
+  "url": "page/amp_soundcloud",
+  "method": "amp-soundcloud",
+  "title": "Soundcloudの音声プレーヤーを表示"
+},
+{
+  "url": "page/amp_springboard_player",
+  "method": "amp-springboard-player",
+  "title": "Springboardの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_sticky_ad",
+  "method": "amp-sticky-ad",
+  "title": "画面下部に常時表示される広告を表示"
+},
+{
+  "url": "page/amp_story_analytics",
+  "method": "amp-story-analytics",
+  "title": "ストーリー分析"
+},
+{
+  "url": "page/amp_story_auto_ads",
+  "method": "amp-story-auto-ads",
+  "title": "ストーリーに広告を動的に表示"
+},
+{
+  "url": "page/amp_story",
+  "method": "amp-story",
+  "title": "ストーリーページを表示"
+},
+{
+  "url": "page/amp_subscriptions_google",
+  "method": "amp-subscriptions",
+  "title": "Subscribe with Googleのサブスクリプションスタイルのアクセスプロトコルを実装"
+},
+{
+  "url": "page/amp_subscriptions",
+  "method": "amp-subscriptions",
+  "title": "ペイウォールコンテンツを設定"
+},
+{
+  "url": "page/amp_timeago",
+  "method": "amp-timeago",
+  "title": "日付をTwitterなどで使われる「3時間前」などのフォーマットに変換"
+},
+{
+  "url": "page/amp_truncate_text",
+  "method": "amp-truncate-text",
+  "title": "長いテキストを省略記号で切り捨てて表示"
+},
+{
+  "url": "page/amp_twitter",
+  "method": "amp-twitter",
+  "title": "Twitterのツイートを表示"
+},
+{
+  "url": "page/amp_user_notification",
+  "method": "amp-user-notification",
+  "title": "ユーザーに通知を表示"
+},
+{
+  "url": "page/amp_video_docking",
+  "method": "amp-video-docking",
+  "title": "動画を最小化する機能を追加"
+},
+{
+  "url": "page/amp_video_iframe",
+  "method": "amp-video-iframe",
+  "title": "iFrameに動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_video",
+  "method": "amp-video",
+  "title": "動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_vimeo",
+  "method": "amp-vimeo",
+  "title": "Vimeoの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_vine",
+  "method": "amp-vine",
+  "title": "Vineの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_viqeo_player",
+  "method": "amp-viqeo-player",
+  "title": "Viqeoの動画プレーヤーを表示"
+},
+{
+  "url": "page/amp_vk",
+  "method": "amp-vk",
+  "title": "VKの投稿を表示"
+},
+{
+  "url": "page/amp_web_push",
+  "method": "amp-web-push",
+  "title": "プッシュ通知の購読設定"
+},
+{
+  "url": "page/amp_wistia_player",
+  "method": "amp-wistia-player",
+  "title": "Wistiaの動画を表示"
+},
+{
+  "url": "page/amp_yotpo",
+  "method": "amp-yotpo",
+  "title": "Yotpoのオンサイトウィジェットを表示"
+},
+{
+  "url": "page/amp_youtube",
+  "method": "amp-youtube",
+  "title": "YouTubeの動画プレーヤーを表示"
+}
+]}

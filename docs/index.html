@@ -1,0 +1,37 @@
+---
+description: "AMPの基本から専用タグ、構造化マークアップなどAMPに関することをわかりやすく解説。タグごとに使用できる属性や使用例などを多く記載"
+---
+{%- include header.html %}
+<main class="col-12 sm-col-10">
+  <h2>AMPドキュメント</h2>
+  <div class="row">
+  <div class="sm-col-2 col-4">
+    <amp-img src="assets/images/opg.png" alt="AMPドキュメント" width="300" height="300" layout="responsive"></amp-img>
+  </div>
+  <div class="sm-col-10 col-8">
+  <ul>
+    <li>AMPの基本から専用タグ、構造化マークアップなどAMPに関することをわかりやすく解説</li>
+    <li>タグごとに使用できる属性や使用例などを多く記載</li>
+  </ul>
+  </div>
+  </div>
+  <h2>カテゴリ</h2>
+  <table class="table-borderless">
+  {%- for i in site.data.categories %}
+  <tr>
+    <td><a href="/{{i.english_name}}">{{i.name}}</a></td>
+    <td>{{i.description}}</td>
+  </tr>
+  {%- endfor %}
+  </table>
+  <aside class="xs-hide">
+  <h2>AMP専用タグ一覧</h2>
+  {%- for i in site.data.pages -%}
+    {%- if i[1].method == "" %}{%- continue %}{%- endif %}
+    {%- if i[1].category_id == 3 or i[1].category_id == 4 or i[1].category_id == 5 or i[1].category_id == 6 or i[1].category_id == 7 %}
+    <span class="tag"><a href="/page/{{i[0]}}">{{i[1].method}}</a></span>
+    {%- endif %}
+  {%- endfor %}
+  </aside class="xs-hide">
+</main>
+{%- include footer.html %}
