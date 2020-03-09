@@ -55,7 +55,7 @@ layout: page
 | sku             | 販売者固有の識別子          |
 
 ### 例
-
+#### 基本的な使い方
     <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
@@ -102,6 +102,22 @@ layout: page
           "@type": "Organization",
           "name": "Executive Objects"
         }
+      }
+    }
+    </script>
+
+#### メルカリ
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "url": "https://item.mercari.com/jp/xxxx/",
+      "name": "xxx",
+      "image": "https://static.mercdn.net/item/detail/orig/photos/xxxx",
+      "offers": {
+        "@type": "Offer",
+        "price": "3400",
+        "priceCurrency": "JPY"
       }
     }
     </script>

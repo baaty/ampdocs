@@ -46,6 +46,7 @@ layout: page
 | video              | 動画                                    |
 
 ### 例
+#### 基本的な使い方
 
     <script type="application/ld+json">
     {
@@ -65,5 +66,53 @@ layout: page
           "uploadDate": "2018-02-05T08:00:00+08:00"
         }
       ]
+    }
+    </script>
+
+#### クックパッド
+
+    <script type='application/ld+json'>
+    {
+      "@context": "https://schema.org",
+      "@type": "Recipe",
+      "name": "xxxx",
+      "headline": "xxxx",
+      "author": {
+        "@type": "Organization",
+        "name": "xxxx",
+        "url": "https://cookpad.com/kitchen/xxxx"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "クックパッド",
+        "url":"https://cookpad.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cookpad.com/assets/logo_cookpad_square.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://cookpad.com/recipe/xxxx"
+      },
+      "image": [
+        "https://img.cpcdn.com/recipes/xxxx"
+      ],
+      "datePublished": "2020-02-27",
+      "description": "xxxx",
+      "recipeYield": "x人分",
+      "recipeIngredient": [
+        "xxxx"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "xxxx"
+        }
+      ],
+      "cookTime": "PT30M",
+      "recipeCategory": "",
+      "keywords": "xxxx",
+      "dateModified":"2020-02-28"
     }
     </script>

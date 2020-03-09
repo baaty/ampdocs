@@ -36,7 +36,7 @@ Googleの検索結果に通常より大きい画像でカルーセルなどで�
 | mainEntityOfPage            | 記事のURL                               |
 
 ### 例
-
+#### 基本的な使い方
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -66,5 +66,41 @@ Googleの検索結果に通常より大きい画像でカルーセルなどで�
         }
       },
       "description": "A most wonderful article"
+    }
+    </script>
+
+#### アメブロ
+
+    <script data-react-helmet="true" type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BlogPosting",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://ameblo.jp/staff/"
+      },
+      "headline": "スタッフブログ",
+      "datePublished": "2004-09-28T20:14:31.000+09:00",
+      "dateModified": "2020-03-04T20:00:00.000+09:00",
+      "author": {
+        "@type": "Person",
+        "name":" アメーバスタッフ"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ameba",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stat100.ameba.jp/ameblo/pc/img/amebloJp/abema_logo.png",
+          "width": 600,
+          "height": 32
+        }
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stat100.ameba.jp/ameblo/sp/img/amp_entryimage.png",
+        "width": 960,
+        "height": 960
+      }
     }
     </script>
