@@ -104,3 +104,40 @@ Googleの検索結果に通常より大きい画像でカルーセルなどで�
       }
     }
     </script>
+
+#### GameWith
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/"
+      },
+      "headline": "モンスト攻略 | モンスターストライク徹底解説",
+      "description": "GameWithのモンスト（モンスターストライク）攻略サイトです。毎日更新のリセマラランキングや降臨スケジュール、全モンスターの評価やおすすめの運極作成方法などを掲載しています。モンストの最新情報も確認できます。",
+      "articleBody": "省略",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://img.gamewith.jp/assets/images/games/covers/0d808d804fb21e0f557ead7ed401f9b5.png",
+        "width": 980,
+        "height": 300,
+        "datePublished": "2014-03-28T18:22:43+09:00",
+        "dateModified": "2020-03-07T11:40:30+09:00",
+        "author": {
+          "@type": "Person",
+          "name": "モンスト攻略班"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GameWith",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/assets/img/logo.png",
+            "width": 276,
+            "height": 46
+          }
+        }
+      }
+    }
+    </script>

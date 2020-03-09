@@ -8,11 +8,11 @@ layout: page
 
 ### 使い方
 
-#### <amp-img>
+#### amp-img
 
-    <amp-img ightbox amp-imgの属性></amp-img>
+    <amp-img lightbox amp-imgの属性></amp-img>
 
-#### <amp-carousel>
+#### amp-carousel
 
     <amp-carousel lightbox amp-carouselの属性></amp-carousel>
 
